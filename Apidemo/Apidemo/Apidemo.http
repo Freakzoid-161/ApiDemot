@@ -1,0 +1,32 @@
+﻿@Apidemo_HostAddress = https://localhost:7282
+
+
+
+POST {{Apidemo_HostAddress}}/todoitems
+Content-Type: application/json
+
+{
+  "name":"walk dog",
+  "isComplete":true
+}
+
+###
+
+GET {{Apidemo_HostAddress}}/todoitems
+
+###
+
+@id=1
+PUT {{Apidemo_HostAddress}}/todoitems/1
+Content-Type: application/json
+
+{
+  "name": "feed fish",
+  "isComplete": false
+}
+
+###
+
+DELETE {{Apidemo_HostAddress}}/todoitems/4
+
+###

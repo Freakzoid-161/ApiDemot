@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\OMISTAJA\\Documents\\ApiDemot\\ApiDemot\\Apidemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{531B2EBE-77FB-C986-3636-2B60AB08C566}|Apidemo\\Apidemo.csproj|c:\\users\\omistaja\\documents\\apidemot\\apidemot\\apidemo\\apidemo\\apidemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{531B2EBE-77FB-C986-3636-2B60AB08C566}|Apidemo\\Apidemo.csproj|solutionrelative:apidemo\\apidemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531B2EBE-77FB-C986-3636-2B60AB08C566}|Apidemo\\Apidemo.csproj|c:\\users\\omistaja\\documents\\apidemot\\apidemot\\apidemo\\apidemo\\todopatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531B2EBE-77FB-C986-3636-2B60AB08C566}|Apidemo\\Apidemo.csproj|solutionrelative:apidemo\\todopatchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531B2EBE-77FB-C986-3636-2B60AB08C566}|Apidemo\\Apidemo.csproj|c:\\users\\omistaja\\documents\\apidemot\\apidemot\\apidemo\\apidemo\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531B2EBE-77FB-C986-3636-2B60AB08C566}|Apidemo\\Apidemo.csproj|solutionrelative:apidemo\\todoitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531B2EBE-77FB-C986-3636-2B60AB08C566}|Apidemo\\Apidemo.csproj|c:\\users\\omistaja\\documents\\apidemot\\apidemot\\apidemo\\apidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531B2EBE-77FB-C986-3636-2B60AB08C566}|Apidemo\\Apidemo.csproj|solutionrelative:apidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531B2EBE-77FB-C986-3636-2B60AB08C566}|Apidemo\\Apidemo.csproj|c:\\users\\omistaja\\documents\\apidemot\\apidemot\\apidemo\\apidemo\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531B2EBE-77FB-C986-3636-2B60AB08C566}|Apidemo\\Apidemo.csproj|solutionrelative:apidemo\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{531B2EBE-77FB-C986-3636-2B60AB08C566}|Apidemo\\Apidemo.csproj|c:\\users\\omistaja\\documents\\apidemot\\apidemot\\apidemo\\apidemo\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{531B2EBE-77FB-C986-3636-2B60AB08C566}|Apidemo\\Apidemo.csproj|solutionrelative:apidemo\\tododb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\OMISTAJA\\Documents\\ApiDemot\\ApiDemot\\Apidemo\\Apidemo\\TodoItemDto.cs",
+              "RelativeDocumentMoniker": "Apidemo\\TodoItemDto.cs",
+              "ToolTip": "C:\\Users\\OMISTAJA\\Documents\\ApiDemot\\ApiDemot\\Apidemo\\Apidemo\\TodoItemDto.cs",
+              "RelativeToolTip": "Apidemo\\TodoItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T10:45:05.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoPatchDto.cs",
+              "DocumentMoniker": "C:\\Users\\OMISTAJA\\Documents\\ApiDemot\\ApiDemot\\Apidemo\\Apidemo\\TodoPatchDto.cs",
+              "RelativeDocumentMoniker": "Apidemo\\TodoPatchDto.cs",
+              "ToolTip": "C:\\Users\\OMISTAJA\\Documents\\ApiDemot\\ApiDemot\\Apidemo\\Apidemo\\TodoPatchDto.cs",
+              "RelativeToolTip": "Apidemo\\TodoPatchDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-26T10:28:41.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "C:\\Users\\OMISTAJA\\Documents\\ApiDemot\\ApiDemot\\Apidemo\\Apidemo\\Todo.cs",
+              "RelativeDocumentMoniker": "Apidemo\\Todo.cs",
+              "ToolTip": "C:\\Users\\OMISTAJA\\Documents\\ApiDemot\\ApiDemot\\Apidemo\\Apidemo\\Todo.cs",
+              "RelativeToolTip": "Apidemo\\Todo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T11:49:02.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Apidemo.http",
+              "DocumentMoniker": "C:\\Users\\OMISTAJA\\Documents\\ApiDemot\\ApiDemot\\Apidemo\\Apidemo\\Apidemo.http",
+              "RelativeDocumentMoniker": "Apidemo\\Apidemo.http",
+              "ToolTip": "C:\\Users\\OMISTAJA\\Documents\\ApiDemot\\ApiDemot\\Apidemo\\Apidemo\\Apidemo.http",
+              "RelativeToolTip": "Apidemo\\Apidemo.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-08-24T11:54:41.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoDb.cs",
+              "DocumentMoniker": "C:\\Users\\OMISTAJA\\Documents\\ApiDemot\\ApiDemot\\Apidemo\\Apidemo\\TodoDb.cs",
+              "RelativeDocumentMoniker": "Apidemo\\TodoDb.cs",
+              "ToolTip": "C:\\Users\\OMISTAJA\\Documents\\ApiDemot\\ApiDemot\\Apidemo\\Apidemo\\TodoDb.cs",
+              "RelativeToolTip": "Apidemo\\TodoDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T11:49:51.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\OMISTAJA\\Documents\\ApiDemot\\ApiDemot\\Apidemo\\Apidemo\\Program.cs",
+              "RelativeDocumentMoniker": "Apidemo\\Program.cs",
+              "ToolTip": "C:\\Users\\OMISTAJA\\Documents\\ApiDemot\\ApiDemot\\Apidemo\\Apidemo\\Program.cs",
+              "RelativeToolTip": "Apidemo\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-24T11:41:40.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
