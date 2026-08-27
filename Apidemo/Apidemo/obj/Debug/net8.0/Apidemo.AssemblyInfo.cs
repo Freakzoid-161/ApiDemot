@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Apidemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+442e4f5250216a539f404e053a01424716616c48")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7dcbdf80eec03d4561bb4d0ec9928dbee853d00c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Apidemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Apidemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

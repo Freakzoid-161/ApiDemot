@@ -1,0 +1,35 @@
+﻿@QuestDemo_HostAddress = https://localhost:7016
+
+POST {{QuestDemo_HostAddress}}/quests
+Content-Type: application/json
+{
+  "name":"walk dog",
+  "description":"Take The Dog For a Walk!",
+  "reward":5
+}
+###
+POST {{QuestDemo_HostAddress}}/quests
+Content-Type: application/json
+{
+  "name":"Destroy The Rats",
+  "description":"Kill 3 rats and bring their pelts to me.",
+  "reward":1
+}
+###
+
+GET {{QuestDemo_HostAddress}}/quests/2
+
+###
+
+PUT {{QuestDemo_HostAddress}}/quests/1
+Content-Type: application/json
+{
+  "name":"walk dog",
+  "description":"Take The Dog For a Walk!",
+  "reward":2
+}
+###
+
+DELETE {{QuestDemo_HostAddress}}/quests/2
+
+###

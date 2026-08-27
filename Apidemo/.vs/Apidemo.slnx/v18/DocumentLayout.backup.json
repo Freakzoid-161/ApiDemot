@@ -46,8 +46,7 @@
               "RelativeToolTip": "Apidemo\\TodoItemDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T10:45:05.437Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T10:45:05.437Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "Apidemo\\TodoPatchDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-26T10:28:41.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-26T10:28:41.912Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "Apidemo\\Todo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-24T11:49:02.336Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-24T11:49:02.336Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "Apidemo\\TodoDb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-24T11:49:51.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-24T11:49:51.066Z"
             },
             {
               "$type": "Document",
@@ -111,8 +107,7 @@
               "RelativeToolTip": "Apidemo\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-24T11:41:40.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-24T11:41:40.527Z"
             }
           ]
         }
